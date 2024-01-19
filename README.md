@@ -1,1 +1,1 @@
-# devops24
+Devops course work purpose
